@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406867742090",
+    "project_id": "supcom-events-app",
+    "storage_bucket": "supcom-events-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406867742090:android:2abe3ed1823029c2a8cc73",
+        "android_client_info": {
+          "package_name": "com.SupComApp.events_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406867742090-usih46e4nvob8gp6a3m5ksv9dgatd9e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfXvpjXEVTAlUyALt0BauuUM2S1MgTGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406867742090-usih46e4nvob8gp6a3m5ksv9dgatd9e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
