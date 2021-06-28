@@ -8,4 +8,4 @@ This app is a work in progress, some bugs still exist and unavailble features (y
 
 <img src="screenshots/event-details.png" width=300>   <img src="screenshots/club-page.png" width=300>
 
-<img src="screenshots/add-event.png" width=300>
+<img src="screenshots/event editor.png" width=300>
