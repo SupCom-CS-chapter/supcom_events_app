@@ -1,6 +1,6 @@
 # events_app
 
-This app is a work in progress, some bugs still exist and unavailble features (yet :wink: ).
+This app is a work in progress, some bugs still exist and unavailble features (yet :wink:).
 
 <img src="screenshots/log-in.png" width=300>   <img src="screenshots/sign-up.png" width=300>
 
